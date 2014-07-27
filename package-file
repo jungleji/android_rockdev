@@ -1,0 +1,12 @@
+# NAME		Relative path
+#
+#HWDEF		HWDEF
+package-file	package-file
+bootloader	RK3188Loader(L)_V2.10.bin
+parameter	parameter
+misc		Image/misc.img
+#kernel		Image/kernel.img
+boot		Image/boot.img
+recovery	Image/recovery.img
+system		Image/system.img
+backup		RESERVED
